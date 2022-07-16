@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Freeze Tag Zombie editon/1.0.0": {
+        "runtime": {
+          "Freeze Tag Zombie editon.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Freeze Tag Zombie editon/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

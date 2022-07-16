@@ -1,0 +1,18 @@
+C:\Users\izzya\source\repos\Freeze Tag Zombie editon\Freeze Tag Zombie editon\bin\Debug\net6.0-windows\Freeze Tag Zombie editon.exe
+C:\Users\izzya\source\repos\Freeze Tag Zombie editon\Freeze Tag Zombie editon\bin\Debug\net6.0-windows\Freeze Tag Zombie editon.deps.json
+C:\Users\izzya\source\repos\Freeze Tag Zombie editon\Freeze Tag Zombie editon\bin\Debug\net6.0-windows\Freeze Tag Zombie editon.runtimeconfig.json
+C:\Users\izzya\source\repos\Freeze Tag Zombie editon\Freeze Tag Zombie editon\bin\Debug\net6.0-windows\Freeze Tag Zombie editon.dll
+C:\Users\izzya\source\repos\Freeze Tag Zombie editon\Freeze Tag Zombie editon\bin\Debug\net6.0-windows\Freeze Tag Zombie editon.pdb
+C:\Users\izzya\source\repos\Freeze Tag Zombie editon\Freeze Tag Zombie editon\obj\Debug\net6.0-windows\Freeze Tag Zombie editon.csproj.AssemblyReference.cache
+C:\Users\izzya\source\repos\Freeze Tag Zombie editon\Freeze Tag Zombie editon\obj\Debug\net6.0-windows\Freeze_Tag_Zombie_editon.Form1.resources
+C:\Users\izzya\source\repos\Freeze Tag Zombie editon\Freeze Tag Zombie editon\obj\Debug\net6.0-windows\Freeze Tag Zombie editon.csproj.GenerateResource.cache
+C:\Users\izzya\source\repos\Freeze Tag Zombie editon\Freeze Tag Zombie editon\obj\Debug\net6.0-windows\Freeze Tag Zombie editon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\izzya\source\repos\Freeze Tag Zombie editon\Freeze Tag Zombie editon\obj\Debug\net6.0-windows\Freeze Tag Zombie editon.AssemblyInfoInputs.cache
+C:\Users\izzya\source\repos\Freeze Tag Zombie editon\Freeze Tag Zombie editon\obj\Debug\net6.0-windows\Freeze Tag Zombie editon.AssemblyInfo.cs
+C:\Users\izzya\source\repos\Freeze Tag Zombie editon\Freeze Tag Zombie editon\obj\Debug\net6.0-windows\Freeze Tag Zombie editon.csproj.CoreCompileInputs.cache
+C:\Users\izzya\source\repos\Freeze Tag Zombie editon\Freeze Tag Zombie editon\obj\Debug\net6.0-windows\Freeze Tag Zombie editon.dll
+C:\Users\izzya\source\repos\Freeze Tag Zombie editon\Freeze Tag Zombie editon\obj\Debug\net6.0-windows\refint\Freeze Tag Zombie editon.dll
+C:\Users\izzya\source\repos\Freeze Tag Zombie editon\Freeze Tag Zombie editon\obj\Debug\net6.0-windows\Freeze Tag Zombie editon.pdb
+C:\Users\izzya\source\repos\Freeze Tag Zombie editon\Freeze Tag Zombie editon\obj\Debug\net6.0-windows\Freeze Tag Zombie editon.genruntimeconfig.cache
+C:\Users\izzya\source\repos\Freeze Tag Zombie editon\Freeze Tag Zombie editon\obj\Debug\net6.0-windows\ref\Freeze Tag Zombie editon.dll
+C:\Users\izzya\source\repos\Freeze Tag Zombie editon\Freeze Tag Zombie editon\obj\Debug\net6.0-windows\Freeze_Tag_Zombie_editon.Properties.Resources.resources
